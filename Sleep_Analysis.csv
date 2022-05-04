@@ -1,0 +1,47 @@
+Age,Gender,meals/day,physical illness,screen time,bluelight filter,sleep direction,exercise,smoke/drink,beverage,sleep time
+22,Male,two,no,2hrs,yes,west,sometimes,no,Tea,6.757500000000001
+22,Female,three,no,3-4 hrs,no,south,no,no,Coffee,8.0
+23,Male,three,no,3-4 hrs,no,south,no,no,Tea,8.0
+23,Female,two,no,1-2 hrs,no,east,sometimes,no,Coffee,6.5
+22,Male,three,no,more than 5,yes,east,sometimes,yes,Tea and Coffee both,6.0
+22,Male,two,no,2-3 hrs,yes,west,sometimes,no,Tea,6.757500000000001
+22,Male,four,no,1-2 hrs,yes,south,yes,no,none of the above,7.0
+24,Female,three,yes,4-5 hrs,no,east,sometimes,no,Tea,6.5
+24,Male,four,no,2-3 hrs,yes,east,yes,no,none of the above,8.0
+23,Female,three,no,more than 5,yes,north,yes,yes,Tea and Coffee both,7.0
+28,Female,three,no,0-1 hrs,yes,north,yes,no,Tea,6.5
+59,Male,two,no,0-1 hrs,no,west,no,no,Tea,6.0
+23,Female,three,no,4-5 hrs,no,west,sometimes,no,Tea,8.0
+25,Prefer not to say,more than 5,no,more than 5,yes,east,yes,no,Coffee,1.5
+23,Male,three,no,3-4 hrs,no,north,sometimes,no,Coffee,8.0
+23,Female,two,no,2-3 hrs,yes,west,yes,no,none of the above,8.0
+24,Male,three,no,more than 5,no,west,no,no,none of the above,7.0
+24,Male,two,no,more than 5,yes,north,sometimes,no,none of the above,8.0
+23,Male,three,no,1-2 hrs,yes,west,yes,yes,Tea,8.0
+22,Male,two,yes,2-3 hrs,yes,south,sometimes,no,Tea,7.0
+23,Male,three,no,more than 5,yes,west,no,no,Tea,7.0
+39,Female,five,no,2-3 hrs,yes,west,no,no,Tea and Coffee both,6.0
+23,Female,three,no,3-4 hrs,no,north,sometimes,no,Tea,7.0
+25,Female,two,no,more than 5,no,south,sometimes,no,none of the above,7.0
+23,Male,three,no,more than 5,no,north,sometimes,no,Tea,7.0
+22,Male,four,no,1-2 hrs,yes,north,sometimes,no,Tea and Coffee both,5.0
+25,Female,three,no,2-3 hrs,no,east,sometimes,no,Tea and Coffee both,5.0
+50,Male,two,no,1-2 hrs,no,west,yes,no,none of the above,8.0
+23,Female,three,no,more than 5,yes,west,no,no,Tea,7.0
+20,Male,one,no,4-5 hrs,no,west,no,no,Coffee,3.33
+23,Female,two,no,2-3 hrs,no,west,no,no,Tea,9.0
+23,Female,three,no,4-5 hrs,yes,east,yes,no,Tea,7.0
+23,Female,three,no,3-4 hrs,no,east,sometimes,no,Tea and Coffee both,6.0
+22,Male,one,no,4-5 hrs,no,north,sometimes,no,Tea and Coffee both,8.0
+22,Male,two,no,1-2 hrs,yes,north,sometimes,no,Tea,7.0
+21,Male,one,yes,more than 5,yes,west,no,no,none of the above,7.0
+24,Male,two,no,more than 5,no,west,sometimes,no,none of the above,7.0
+25,Male,two,no,2-3 hrs,yes,east,sometimes,no,Tea,7.0
+22,Male,two,no,4-5 hrs,yes,east,no,no,Tea,7.0
+23,Female,three,no,more than 5,yes,west,yes,no,Coffee,6.0
+22,Female,two,no,3-4 hrs,no,south,yes,no,Tea,6.0
+22,Male,three,no,3-4 hrs,no,east,sometimes,no,Tea,6.0
+21,Male,two,no,more than 5,no,east,sometimes,no,Tea,7.0
+24,Male,three,no,more than 5,yes,east,sometimes,no,none of the above,4.0
+25,Prefer not to say,three,yes,more than 5,yes,east,yes,yes,Tea and Coffee both,8.0
+23,Female,three,no,more than 5,yes,east,sometimes,no,Tea,8.0
